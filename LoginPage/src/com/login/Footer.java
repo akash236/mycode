@@ -25,6 +25,7 @@ public class Footer extends HttpServlet {
 		PrintWriter out=response.getWriter();
 		out.print("<h1 style='margin-left:50%;margin-top:20%;'> @copyright 2010-2020</h1>");
 		out.print("<h1 style='margin-left:50%;margin-top:20%;'> @copyright 2011-2015</h1>");
+		out.print("<h1 style='margin-left:50%;margin-top:20%;'> @copyright 2011-2015</h1>");
 	}
 
 }
